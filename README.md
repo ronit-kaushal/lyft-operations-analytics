@@ -68,7 +68,7 @@ Build an executive-ready **Operations & Trip Analytics Dashboard** to:
 
 ## Live Interactive Dashboard
 
-[Open Power BI Dashboard (Publish to Web)](https://app.powerbi.com/view?r=eyJrIjoiYTUwNWM4ZmUtZGM3NC00NDZhLTlmMzctYjA3NGY1MTk0Zjg5IiwidCI6ImNlOTk3M2JmLTc4NDMtNDM2Zi1hYmZkLTk2MGQ0OTM1MTcxNiJ9)
+[Open Power BI Dashboard (Publish to Web)](https://app.powerbi.com/view?r=eyJrIjoiOWFmMDczMTUtZGI3Yy00MTQxLTgyODYtYzE3YzFlOGRkNDcwIiwidCI6ImNlOTk3M2JmLTc4NDMtNDM2Zi1hYmZkLTk2MGQ0OTM1MTcxNiJ9)
 
 ---
 
